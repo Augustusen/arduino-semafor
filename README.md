@@ -18,7 +18,7 @@ This is an Arduino project where I simulate a traffic light (semafor). The proje
 1. **Clone the repository**:
    First, clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Augustusen/Arduino-Semafor-projekt.git
+   git clone https://github.com/Augustusen/arduino-semafor.git
    
 2. **Upload files to Wokwi Arduino Simulator**:
 
